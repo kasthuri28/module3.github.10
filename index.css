@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.header
+{
+    height: 100vh;
+}
+.navbar-default
+{
+    background-color:grey;
+
+}
+.icon-bar
+{
+    background:black;
+}
+.navbar-brand
+{
+    color:black;
+    font-size:30px;
+    padding-top: 10px;
+    font-family: monospace; 
+}
+.heading
+{
+    color:black;
+    font-family: "Lucida Console", Courier, monospace;
+    text-align: center;
+}
+.col-xs-12
+{
+    background-color: darkgrey;
+    height : 1000px;
+}
+h2
+{
+    text-align: center;
+}
